@@ -6,7 +6,7 @@ Author: AmnyamNyam
 Most of the commands in the code are used for specific tasks and are not listed in the command list.
 I will remove or update them later.
 
-
+ 
 
 ===Prefix = !===
 
