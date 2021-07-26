@@ -59,7 +59,6 @@ async def role(ctx, userrole, *,user: discord.Member):                          
 async def roleall(ctx, userrole):                                                                                       # checking the role of all users
                                                                                                                         # Example: !roleall role
     x = ctx.message.guild.members
-    print(x)
     for ctx.message.id in x:
         user = ctx.message.id
 

@@ -3,7 +3,7 @@ This is a special bot used for non-standard tasks.
 
 >Most of the commands in the code are used for specific tasks and are not listed in the command list. I will remove or update them later.
 # Commands:
-## Prefix
+## Prefix 
 Use **!** as first symbol before using commands
 ## send [role] [text]
 sends direct messages to all users of the group with the specified role.
