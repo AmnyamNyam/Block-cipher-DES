@@ -25,7 +25,7 @@ OR
 For Pycharm: File -> Settings -> Python Interpreter -> + -> discord.py
 
 
-#Contact me:
+# Contact me:
 ## VK
 https://vk.com/bubamtektonik
 ## Discord
