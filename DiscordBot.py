@@ -4,7 +4,7 @@ from discord.ext import commands
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix='!', intents=intents)
 
-TOKEN = 'NjY3Nzg2MTk4Mzc4NjEwNjk4.XiHyXA.TCKCIByKyR3vVPUva8QUMMlIawQ'
+TOKEN = '' #<--- Insert your bot-token here
 
 @bot.command(pass_context=True)  # allow the transfer of arguments
 async def test(ctx, arg):  # create an asynchronous bot function
