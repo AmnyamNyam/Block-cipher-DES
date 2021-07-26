@@ -1,6 +1,6 @@
-==========v0.2==========
+==========v0.1==========
 This is a special bot used for non-standard tasks.
-Author: Amnyamka
+Author: AmnyamNyam
 
 
 Most of the commands in the code are used for specific tasks and are not listed in the command list.
